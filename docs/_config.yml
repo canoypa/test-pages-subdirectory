@@ -1,2 +1,3 @@
 title: Test
-theme: midnight
+# theme: midnight
+remote_theme: pages-themes/midnight
